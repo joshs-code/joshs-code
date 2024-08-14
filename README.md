@@ -8,4 +8,4 @@ Been a web developer for 5+ years with 2+ years of professional experience. Rece
 
 *   🌍  I'm based in Tulsa, OK
 *   ✉️  You can contact me at [joshcodes@tutamail.com](mailto:joshcodes@tutamail.com)
-*   🧠  I'm learning Playwright and Cypress Skills 
+*   🧠  Playwright and Cypress Skills 
