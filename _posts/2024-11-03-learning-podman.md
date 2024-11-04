@@ -138,7 +138,7 @@ podman pod create --name wordpress-pod -p 8080:80
 
 \--name mariadb ( The database we will be using )
 
-[docker.io/library/mariadb:latest](http://docker.io/library/mariadb:latest) ( Get the image for mariadb )
+[docker.io/library/mariadb:latest](https://docker.io/library/mariadb:latest) ( Get the image for mariadb )
 
 *Make sure to replace passwords with strong passwords*
 
